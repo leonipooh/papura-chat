@@ -46,6 +46,12 @@ background-image: linear-gradient(to right top, #f13333,#6d6d6d);
 }
 
 
+#back
+{
+	font-size: 20px; float: left;
+}
+
+
 #output
 {
 	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
