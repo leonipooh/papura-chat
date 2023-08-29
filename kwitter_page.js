@@ -76,3 +76,6 @@ const firebaseConfig = {
     localStorage.removeItem("user_room");
     window.location.replace("index.html");
  }       
+
+function back(){
+    window.location.replace("kwitter_room.html")
