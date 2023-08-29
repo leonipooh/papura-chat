@@ -79,3 +79,4 @@ const firebaseConfig = {
 
 function back(){
     window.location.replace("kwitter_room.html")
+}
